@@ -63,11 +63,12 @@ Download the 3D printable cloud-shaped enclosure from Thingiverse:
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Project Video
 
-Watch the full design and build process:  
-🎬 **[GrowCloud – This Cloud Knows When Your Plants Need Water!](https://www.youtube.com/watch?v=xE8mdvpAcNc)**  
-*(https://www.youtube.com/watch?v=xE8mdvpAcNc)*
+This video showcases the **entire process** of building GrowCloud — including 3D design, 3D printing, MicroPython programming, wiring, assembly, and the final working result:
+
+📺 **Watch on YouTube:**  
+👉 [https://www.youtube.com/watch?v=xE8mdvpAcNc](https://www.youtube.com/watch?v=xE8mdvpAcNc)
 
 ---
 
@@ -75,4 +76,8 @@ Watch the full design and build process:
 
 **Seyed**
 
+---
 
+## 📜 License
+
+This project is licensed under the MIT License.
