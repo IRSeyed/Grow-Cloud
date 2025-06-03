@@ -74,7 +74,7 @@ This video showcases the **entire process** of building GrowCloud — including 
 
 ## 🧑‍💻 Author
 
-**Seyed**
+**IRSeyed**
 
 ---
 
